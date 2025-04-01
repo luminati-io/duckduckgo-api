@@ -32,7 +32,7 @@ This repository offers two solutions for extracting data from DuckDuckGo Search 
 ## Free DuckDuckGo SERP Scraper
 The Free DuckDuckGo SERP Scraper offers a straightforward method for collecting search result data on a smaller scale. It’s perfect if you need limited data without the overhead of managing proxies or handling high volumes.
 
-<img width="800" alt="free-duckduckgo-serp-scraper" src="https://github.com/user-attachments/assets/0472593e-615c-4723-96e7-08f83cb0b477" />
+<img width="800" alt="free-duckduckgo-serp-scraper" src="https://github.com/luminati-io/duckduckgo-api/blob/main/images/428465443-0472593e-615c-4723-96e7-08f83cb0b477.png" />
 
 ### Setup Requirements
 
@@ -68,7 +68,7 @@ Kickstart your journey with our [Beginner’s Guide to Web Scraping with Python]
 ### Sample Output
 Below is a preview of the scraper output:
 
-<img width="800" alt="free-duckduckgo-serp-scraper-output" src="https://github.com/user-attachments/assets/d6891a93-2b5f-4243-8a17-e2a037c91570" />
+<img width="800" alt="free-duckduckgo-serp-scraper-output" src="https://github.com/luminati-io/duckduckgo-api/blob/main/images/428465286-d6891a93-2b5f-4243-8a17-e2a037c91570.png" />
 
 
 ### Limitations
@@ -98,7 +98,7 @@ The DuckDuckGo SERP API is part of Bright Data’s comprehensive [SERP Scraper A
 
 📌 Try Before You Buy: Experience our solution with the [SERP API Live Demo](https://brightdata.com/products/serp-api/duckduckgo-search).
 
-<img width="800" alt="bright-data-serp-api-playground" src="https://github.com/user-attachments/assets/fc60e165-e4db-41d2-93eb-2b6a01398353" />
+<img width="800" alt="bright-data-serp-api-playground" src="https://github.com/luminati-io/duckduckgo-api/blob/main/images/428471522-fc60e165-e4db-41d2-93eb-2b6a01398353.png" />
 
 ### Getting Started
 
