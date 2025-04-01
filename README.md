@@ -1,5 +1,7 @@
 # DuckDuckGo Search Scraper
 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/serp-api/duckduckgo-search)
+
 This repository offers two solutions for extracting data from DuckDuckGo Search Engine Results Pages (SERPs):
 
 - **Free DuckDuckGo Scraper:** A tool for scraping DuckDuckGo Search Results at small scale
@@ -82,7 +84,7 @@ For a scalable and stable solution, consider Bright Data's dedicated API detaile
 
 ## DuckDuckGo SERP API
 
-The DuckDuckGo SERP API is part of Bright Data’s comprehensive [SERP Scraper API](https://brightdata.com/products/serp-api) suite. It leverages our industry-leading [proxy infrastructure](https://brightdata.com/proxy-types) to deliver real-time DuckDuckGo search results with a single API call.
+The DuckDuckGo SERP API is part of Bright Data’s comprehensive [SERP Scraper API](https://brightdata.com/products/serp-api) suite. It leverages our industry-leading [DuckDuckGo proxy infrastructure](https://brightdata.com/solutions/duckduckgo-proxies) to deliver real-time DuckDuckGo search results with a single API call.
 
 ### Key Benefits
 
